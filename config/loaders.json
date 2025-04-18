@@ -26,6 +26,15 @@
             "status": "custom",
             "imageUrl": "https://cdn.discordapp.com/attachments/1361819090586567017/1362873370819166248/public.png?ex=6803fa3c&is=6802a8bc&hm=186be68e6378e3fa7c2a14c3975fad730ee4e94993442b7b592bd4d567ff04bd&",
             "productUrl": "https://odsellauth.mysellauth.com/product/zenith"
+        },
+        {
+            "id": "VIP CHAIR",
+            "name": "VIP CHAIR",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1287922982366482454/BO6_LOADER.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/1287922982366482454/public.avif",
+            "productUrl": "https://odsellauth.mysellauth.com/product/od"
         }
     ]
 }
