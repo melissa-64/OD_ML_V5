@@ -13,7 +13,7 @@
         },
         "button": {
             "category": "#252525",
-            "action": "#FFFFFF"
+            "action": "#000000"
         },
         "background": {
             "main": "#050505",
