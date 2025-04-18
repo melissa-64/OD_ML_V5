@@ -3,22 +3,12 @@
         {
             "id": "notif1",
             "type": "announcement",
-            "title": "CUPON",
-            "message": "USE CODE UNLOCKALL FOR 30 PERCENT OFF",
-            "startDate": "2025-04-18T20:08:48Z",
-            "endDate": "2025-04-18T21:08:48Z",
+            "title": "UNLOCK TOOL",
+            "message": "UNLOCK TOOL IS AT USE ON OWN RISK DONT USE MAIN ACCOUNTS",
+            "startDate": "2025-04-18T23:48:06Z",
+            "endDate": "2025-04-19T23:48:06Z",
             "displayDuration": 5000,
             "priority": "normal"
-        },
-        {
-            "id": "notif2",
-            "type": "discount",
-            "title": "COUPON",
-            "message": "USE CODE UNLOCK ALL",
-            "startDate": "2025-04-18T20:11:22Z",
-            "endDate": "2025-04-18T21:11:22Z",
-            "displayDuration": 5000,
-            "priority": "high"
         }
     ]
 }
