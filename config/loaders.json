@@ -26,15 +26,6 @@
             "status": "online",
             "imageUrl": "https://cdn.discordapp.com/attachments/1361513375288397925/1362942069101957181/public.png?ex=68043a37&is=6802e8b7&hm=6a58c41e83ff4d5adac9e77ecef243068f7a3ec09f0d7dc7723f90c0c0b7216a&",
             "productUrl": "https://odsellauth.mysellauth.com/product/temp-spoofer"
-        },
-        {
-            "id": "EXTERNAL",
-            "name": "EXTERNAL",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1287922982366482454/BO6_LOADER.exe",
-            "status": "online",
-            "imageUrl": "",
-            "productUrl": ""
         }
     ]
 }
