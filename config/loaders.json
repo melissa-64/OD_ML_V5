@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "UNLOCKALL",
-            "name": "UNLOCK ALL",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1287922982366482454/UNLOCKALL.exe",
-            "status": "online",
-            "imageUrl": "https://cdn.discordapp.com/attachments/1320961398439673887/1362868686104563732/public.png?ex=6803f5df&is=6802a45f&hm=a6e3d668d19c6b56579fb875247f7d46a0d88a1f0ba3d5cfeffd06f8bf925bbf&",
-            "productUrl": ""
-        },
-        {
             "id": "ZENITH",
             "name": "ZENITH",
             "categoryId": "bo6",
