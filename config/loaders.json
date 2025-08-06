@@ -4,7 +4,7 @@
             "id": "ZENITH",
             "name": "ZENITH",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1287922982366482454/zenith.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1287922982366482454/zenith.exe",
             "status": "custom",
             "imageUrl": "https://cdn.discordapp.com/attachments/1361819090586567017/1362873370819166248/public.png?ex=6803fa3c&is=6802a8bc&hm=186be68e6378e3fa7c2a14c3975fad730ee4e94993442b7b592bd4d567ff04bd&",
             "productUrl": "https://odsellauth.mysellauth.com/product/zenith"
@@ -13,16 +13,16 @@
             "id": "VIP CHAIR",
             "name": "VIP CHAIR",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1287922982366482454/BO6_LOADER.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1287922982366482454/BO6_LOADER.exe",
             "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1287922982366482454/public.avif",
+            "imageUrl": "https://api.cloud.anewvision.fr/1287922982366482454/public.avif",
             "productUrl": "https://odsellauth.mysellauth.com/product/od"
         },
         {
             "id": "TEMP WOOFER",
             "name": "TEMP WOOFER",
             "categoryId": "others",
-            "downloadUrl": "https://cloud.anewvision.fr/1287922982366482454/H1pKq9IFPWT.com",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1287922982366482454/H1pKq9IFPWT.com",
             "status": "online",
             "imageUrl": "https://cdn.discordapp.com/attachments/1361513375288397925/1362942069101957181/public.png?ex=68043a37&is=6802e8b7&hm=6a58c41e83ff4d5adac9e77ecef243068f7a3ec09f0d7dc7723f90c0c0b7216a&",
             "productUrl": "https://odsellauth.mysellauth.com/product/temp-spoofer"
