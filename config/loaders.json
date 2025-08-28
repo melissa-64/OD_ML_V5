@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "VIP CHAIR",
-            "name": "VIP CHAIR",
-            "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1287922982366482454/BO6_LOADER.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/1287922982366482454/public.avif",
-            "productUrl": "https://odsellauth.mysellauth.com/product/od"
-        },
-        {
             "id": "TEMP WOOFER",
             "name": "TEMP WOOFER",
             "categoryId": "others",
