@@ -1,3 +1,18 @@
 {
-    "loaders": []
+    "loaders": [
+        {
+            "id": "zenithv2",
+            "name": "ZENITHV2",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1287922982366482454_cloud/main/t10_zlv2_1egnano35TTWLri.exe",
+            "status": "online",
+            "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/9db5912c-17f7-4852-c788-d6cc195e4500/public",
+            "productUrl": "",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
+        }
+    ]
 }
