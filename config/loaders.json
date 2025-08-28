@@ -13,6 +13,20 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "shadow-external",
+            "name": "SHADOW EXTERNAL",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1287922982366482454_cloud/main/cheat_1.6.exe",
+            "status": "online",
+            "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/5e8c816f-4760-4452-3ac9-b8355a98ac00/public",
+            "productUrl": "",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
